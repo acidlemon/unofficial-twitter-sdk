@@ -6,7 +6,7 @@
  *
  */
 
-#error Replace these with your own app credentials, then remove this error.
+//#error Replace these with your own app credentials, then remove this error.
 
-#define OAUTH_CONSUMER_KEY @"hfddfbfd"
-#define OAUTH_CONSUMER_SECRET @"bdfbdbds"
+//#define OAUTH_CONSUMER_KEY @"hfddfbfd"
+//#define OAUTH_CONSUMER_SECRET @"bdfbdbds"
